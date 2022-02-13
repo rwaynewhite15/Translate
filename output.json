@@ -1,0 +1,14 @@
+[
+    {
+        "translations": [
+            {
+                "text": "Mi nombre es Bobby, ¡espero que tengas un día maravilloso!",
+                "to": "es"
+            },
+            {
+                "text": "Mi chiamo Bobby, spero che tu abbia una giornata meravigliosa!",
+                "to": "it"
+            }
+        ]
+    }
+]
